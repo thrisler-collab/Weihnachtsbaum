@@ -1,0 +1,14 @@
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\Weihnachtsbaum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\Weihnachtsbaum.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\Weihnachtsbaum.AssemblyInfo.cs
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\Weihnachtsbaum.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\bin\Debug\net8.0\Weihnachtsbaum.exe
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\bin\Debug\net8.0\Weihnachtsbaum.deps.json
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\bin\Debug\net8.0\Weihnachtsbaum.runtimeconfig.json
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\bin\Debug\net8.0\Weihnachtsbaum.dll
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\bin\Debug\net8.0\Weihnachtsbaum.pdb
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\Weihnachtsbaum.dll
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\refint\Weihnachtsbaum.dll
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\Weihnachtsbaum.pdb
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\Weihnachtsbaum.genruntimeconfig.cache
+C:\Users\alexa\Documents\repos\pos\baum\Weihnachtsbaum\Weihnachtsbaum\obj\Debug\net8.0\ref\Weihnachtsbaum.dll
